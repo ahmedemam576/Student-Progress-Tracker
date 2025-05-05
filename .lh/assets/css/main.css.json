@@ -1,0 +1,18 @@
+{
+    "sourceFile": "assets/css/main.css",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1746442170946,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1746442170946,
+            "name": "Commit-0",
+            "content": "/* Main Styles for Student Progress Tracker */\n:root {\n  --primary-color: #3498db;\n  --secondary-color: #2c3e50;\n  --accent-color: #e74c3c;\n  --background-color: #ecf0f1;\n  --text-color: #333;\n  --header-height: 60px;\n}\n\n* {\n  box-sizing: border-box;\n  margin: 0;\n  padding: 0;\n}\n\nbody {\n  font-family: 'Arial', sans-serif;\n  background-color: var(--background-color);\n  color: var(--text-color);\n  line-height: 1.6;\n}\n\nheader {\n  background-color: var(--secondary-color);\n  color: white;\n  padding: 1rem 2rem;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  height: var(--header-height);\n}\n\n.logo {\n  display: flex;\n  align-items: center;\n}\n\n.logo img {\n  height: 40px;\n}\n\nnav ul {\n  display: flex;\n  list-style: none;\n}\n\nnav ul li {\n  margin-left: 1.5rem;\n}\n\nnav ul li a {\n  color: white;\n  text-decoration: none;\n  font-weight: 500;\n  transition: color 0.3s;\n}\n\nnav ul li a:hover {\n  color: var(--accent-color);\n}\n\nmain {\n  max-width: 1200px;\n  margin: 2rem auto;\n  padding: 2rem;\n  background-color: white;\n  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);\n  min-height: calc(100vh - var(--header-height) - 100px);\n}\n\nh1 {\n  color: var(--primary-color);\n  margin-bottom: 1rem;\n}\n\nfooter {\n  background-color: var(--secondary-color);\n  color: white;\n  text-align: center;\n  padding: 1rem;\n  margin-top: 2rem;\n}\n\n/* Responsive adjustments */\n@media (max-width: 768px) {\n  header {\n    flex-direction: column;\n    height: auto;\n    padding: 1rem;\n  }\n  \n  nav ul {\n    margin-top: 1rem;\n    flex-wrap: wrap;\n    justify-content: center;\n  }\n  \n  nav ul li {\n    margin: 0.5rem;\n  }\n  \n  main {\n    padding: 1rem;\n  }\n}"
+        }
+    ]
+}

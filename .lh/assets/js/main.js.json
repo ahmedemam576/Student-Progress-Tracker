@@ -1,0 +1,18 @@
+{
+    "sourceFile": "assets/js/main.js",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1746442170946,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1746442170946,
+            "name": "Commit-0",
+            "content": "// Main JavaScript for Student Progress Tracker\n\ndocument.addEventListener('DOMContentLoaded', () => {\n  console.log('Student Progress Tracker loaded');\n  \n  // Add event listeners for navigation if needed\n  const navLinks = document.querySelectorAll('nav a');\n  navLinks.forEach(link => {\n    link.addEventListener('click', (e) => {\n      // You can add navigation animations or tracking here\n      console.log(`Navigating to: ${link.href}`);\n    });\n  });\n});"
+        }
+    ]
+}
