@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Progress Dashboard</title>
+    <link rel="stylesheet" href="../assets/css/main.css">
+    <link rel="stylesheet" href="../assets/css/dashboard.css">
+    <script src="../assets/js/data-handler.js" defer></script>
+    <script src="../assets/js/charts.js" defer></script>
+    <script src="../assets/js/main.js" defer></script>
+</head>
+<body>
+    <header>
+        <img src="../assets/img/logo.svg" alt="Logo" class="logo">
+        <h1>Student Progress Dashboard</h1>
+    </header>
+    <main>
+        <section id="progress-summary">
+            <h2>Your Progress Summary</h2>
+            <div id="summary-cards">
+                <!-- Summary cards will be dynamically generated here -->
+            </div>
+        </section>
+        <section id="charts">
+            <h2>Progress Charts</h2>
+            <div id="charts-container">
+                <!-- Charts will be rendered here -->
+            </div>
+        </section>
+        <section id="recent-activity">
+            <h2>Recent Activity</h2>
+            <table id="activity-table">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Annotated Today</th>
+                        <th>Working Hours</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Recent activity will be populated here -->
+                </tbody>
+            </table>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Student Progress Tracker. All rights reserved.</p>
+    </footer>
+</body>
+</html>

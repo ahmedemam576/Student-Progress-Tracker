@@ -1,0 +1,22 @@
+{
+    "students": [
+        {
+            "name": "Student A",
+            "total_files": 100,
+            "weekly_target": 10,
+            "progress": []
+        },
+        {
+            "name": "Student B",
+            "total_files": 120,
+            "weekly_target": 12,
+            "progress": []
+        },
+        {
+            "name": "Student C",
+            "total_files": 80,
+            "weekly_target": 8,
+            "progress": []
+        }
+    ]
+}

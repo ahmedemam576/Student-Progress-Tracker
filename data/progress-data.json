@@ -1,0 +1,284 @@
+{
+    "progress": [
+        {
+            "student": "Student A",
+            "week": 1,
+            "annotated_today": 9,
+            "working_hours": 13.1,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 90.0
+        },
+        {
+            "student": "Student A",
+            "week": 2,
+            "annotated_today": 13,
+            "working_hours": 11.7,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 130.0
+        },
+        {
+            "student": "Student A",
+            "week": 3,
+            "annotated_today": 5,
+            "working_hours": 8.8,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 50.0
+        },
+        {
+            "student": "Student A",
+            "week": 4,
+            "annotated_today": 7,
+            "working_hours": 12.1,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 70.0
+        },
+        {
+            "student": "Student A",
+            "week": 5,
+            "annotated_today": 18,
+            "working_hours": 16.0,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 180.0
+        },
+        {
+            "student": "Student A",
+            "week": 6,
+            "annotated_today": 7,
+            "working_hours": 12.2,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 70.0
+        },
+        {
+            "student": "Student A",
+            "week": 7,
+            "annotated_today": 7,
+            "working_hours": 10.2,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 70.0
+        },
+        {
+            "student": "Student A",
+            "week": 8,
+            "annotated_today": 9,
+            "working_hours": 12.1,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 90.0
+        },
+        {
+            "student": "Student A",
+            "week": 9,
+            "annotated_today": 10,
+            "working_hours": 12.5,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 100.0
+        },
+        {
+            "student": "Student A",
+            "week": 10,
+            "annotated_today": 10,
+            "working_hours": 12.4,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 100.0
+        },
+        {
+            "student": "Student A",
+            "week": 11,
+            "annotated_today": 9,
+            "working_hours": 11.3,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 90.0
+        },
+        {
+            "student": "Student A",
+            "week": 12,
+            "annotated_today": 5,
+            "working_hours": 8.5,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 50.0
+        },
+        {
+            "student": "Student A",
+            "week": 13,
+            "annotated_today": 5,
+            "working_hours": 9.3,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 50.0
+        },
+        {
+            "student": "Student A",
+            "week": 14,
+            "annotated_today": 15,
+            "working_hours": 14.5,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 150.0
+        },
+        {
+            "student": "Student A",
+            "week": 15,
+            "annotated_today": 7,
+            "working_hours": 9.9,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 70.0
+        },
+        {
+            "student": "Student A",
+            "week": 16,
+            "annotated_today": 6,
+            "working_hours": 10.0,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 60.0
+        },
+        {
+            "student": "Student A",
+            "week": 17,
+            "annotated_today": 9,
+            "working_hours": 10.7,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 90.0
+        },
+        {
+            "student": "Student A",
+            "week": 18,
+            "annotated_today": 15,
+            "working_hours": 15.6,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 150.0
+        },
+        {
+            "student": "Student A",
+            "week": 19,
+            "annotated_today": 16,
+            "working_hours": 15.0,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 160.0
+        },
+        {
+            "student": "Student A",
+            "week": 20,
+            "annotated_today": 9,
+            "working_hours": 10.9,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 90.0
+        },
+        {
+            "student": "Student A",
+            "week": 21,
+            "annotated_today": 14,
+            "working_hours": 13.4,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 140.0
+        },
+        {
+            "student": "Student A",
+            "week": 22,
+            "annotated_today": 11,
+            "working_hours": 13.0,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 110.0
+        },
+        {
+            "student": "Student A",
+            "week": 23,
+            "annotated_today": 16,
+            "working_hours": 14.0,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 160.0
+        },
+        {
+            "student": "Student A",
+            "week": 24,
+            "annotated_today": 9,
+            "working_hours": 12.0,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 90.0
+        },
+        {
+            "student": "Student A",
+            "week": 25,
+            "annotated_today": 18,
+            "working_hours": 15.6,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 180.0
+        },
+        {
+            "student": "Student A",
+            "week": 26,
+            "annotated_today": 8,
+            "working_hours": 11.3,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 80.0
+        },
+        {
+            "student": "Student A",
+            "week": 27,
+            "annotated_today": 5,
+            "working_hours": 11.3,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 50.0
+        },
+        {
+            "student": "Student A",
+            "week": 28,
+            "annotated_today": 7,
+            "working_hours": 7.8,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 70.0
+        },
+        {
+            "student": "Student A",
+            "week": 29,
+            "annotated_today": 20,
+            "working_hours": 15.7,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 200.0
+        },
+        {
+            "student": "Student A",
+            "week": 30,
+            "annotated_today": 12,
+            "working_hours": 13.3,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 120.0
+        },
+        {
+            "student": "Student A",
+            "week": 31,
+            "annotated_today": 8,
+            "working_hours": 9.5,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 80.0
+        },
+        {
+            "student": "Student A",
+            "week": 32,
+            "annotated_today": 15,
+            "working_hours": 16.4,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 150.0
+        },
+        {
+            "student": "Student A",
+            "week": 33,
+            "annotated_today": 14,
+            "working_hours": 11.4,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 140.0
+        },
+        {
+            "student": "Student A",
+            "week": 34,
+            "annotated_today": 8,
+            "working_hours": 11.1,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 80.0
+        },
+        {
+            "student": "Student A",
+            "week": 35,
+            "annotated_today": 7,
+            "working_hours": 6.1,
+            "weekly_target": 10,
+            "weekly_completion_percentage": 70.0
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "apiEndpoint": "https://api.example.com/v1",
+    "appName": "Student Progress Tracker",
+    "version": "1.0.0",
+    "defaultWeeklyTarget": 10,
+    "maxStudents": 50,
+    "auth": {
+        "enable": true,
+        "tokenExpiration": "1h"
+    },
+    "notifications": {
+        "enable": true,
+        "email": {
+            "from": "noreply@example.com",
+            "subject": "Progress Update"
+        }
+    }
+}
