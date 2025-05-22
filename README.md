@@ -1,4 +1,4 @@
-# Student Progress Tracker
+# Student Progress Trackers
 
 Welcome to the Student Progress Tracker project! This application is designed to help students log their work, track their progress, and visualize their achievements over time. Below are the details regarding the project structure, setup instructions, and usage guidelines.
 
